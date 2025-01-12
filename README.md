@@ -1,5 +1,7 @@
 # TextReader
 
+PROJECT NOT MAINTAINED ANYMORE!
+
 An AI that read letters
 
 open JPG image with white background and black text
